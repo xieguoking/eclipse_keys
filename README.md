@@ -1,2 +1,3 @@
 # eclipse_keys
-eclipse 快捷键
+Eclipse使用兼容Intellij IDEA的快捷键
+
